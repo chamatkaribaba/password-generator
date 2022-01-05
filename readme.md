@@ -1,0 +1,1 @@
+smol password generator can be run on repl just clone and use 
